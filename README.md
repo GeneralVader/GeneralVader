@@ -24,5 +24,5 @@ I am Varad Vinayak Pandey and am currently pursuing Civil Engineering from India
 - ⚡ Fun fact about me: SolidWorks is my jam while ROS is my peanut butter. My Github is the bread which brings these two together.
 
 
-Lastly:-
+
 _**May The Force Be With You**_
