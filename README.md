@@ -19,7 +19,7 @@ I am Varad Vinayak Pandey and am currently pursuing Civil Engineering from India
 
 - 🔭 I’m currently working on Underactuated Control Systems
 - 👯 I’m looking to collaborate on anything regarding my expertise and something which makes me wind up my mental gears.
-- 💬 Ask me about anything troubling you after glancing my profile
+- 💬 Ask me about anything troubling you after glancing my at profile
 - 📫 How to reach me: Mail me at 👉 varad.vinayakpandey.civ20@itbhu.ac.in
 - ⚡ Fun fact about me: SolidWorks is my jam while ROS is my peanut butter. My Github is the bread which brings these two together.
 
